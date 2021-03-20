@@ -56,8 +56,8 @@ h5 {
 .btn,
 .btn-large,
 .btn-small {
-    background-color: #ff5f5f;
-    border-color: #ff5f5f;
+    background-color: #05386b;
+    border-color: #05386b;
     font-family: 'Playfair Display', serif;
     font-family: var(--primary-font);
     text-transform: none;
@@ -67,8 +67,8 @@ h5 {
 .btn:hover,
 .btn-large:hover,
 .btn-small:hover {
-    background-color: #cc262b;
-    border-color: #cc262b;
+    background-color: #379683;
+    border-color: #379683;
 }
 
 .section {
